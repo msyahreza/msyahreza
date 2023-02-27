@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhamad Syah Reza
 - 👀 I’m interested in Web Programming and Web Design
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning SQL, Laravel and Flutter
 - 📫 How to reach me
 -   Instagram : @muhamadsyahreza
 -   Web       : msyahreza.vercel.app
